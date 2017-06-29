@@ -10,7 +10,8 @@
                 login: `${api}/login`,
                 signup: `${api}/signup`,
                 sensor: `${api}/sensor`,
-                statistics: `${api}/statistics`
+                statisticsLight: `${api}/statistics/light`,
+                statisticsAir: `${api}/statistics/air`
             }
         },
         methods: {
